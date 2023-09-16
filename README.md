@@ -1,2 +1,1 @@
-# refactored-garbanzo
-对比学习标准化
+# 对比学习标准化
